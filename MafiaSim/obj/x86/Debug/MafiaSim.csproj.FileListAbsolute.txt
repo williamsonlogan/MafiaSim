@@ -1,0 +1,4 @@
+C:\Users\Logan\OneDrive\Mono\MafiaSim\MafiaSim\bin\Debug\MafiaSim.exe
+C:\Users\Logan\OneDrive\Mono\MafiaSim\MafiaSim\bin\Debug\MafiaSim.pdb
+C:\Users\Logan\OneDrive\Mono\MafiaSim\MafiaSim\obj\x86\Debug\MafiaSim.exe
+C:\Users\Logan\OneDrive\Mono\MafiaSim\MafiaSim\obj\x86\Debug\MafiaSim.pdb
